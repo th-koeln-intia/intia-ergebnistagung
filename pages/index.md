@@ -74,13 +74,17 @@ Anmeldung an
     <tr>
         <th>09:00 Uhr</th>
         <td colspan="2">
-          Begrüßung
+          Begrüßung      
         </td>
     </tr>
     <tr>
         <th>09:10 Uhr</th>
         <td colspan="2">
-          Grußworte
+          <strong>Prof. Dr. Klaus Becker, Vizepräsident für Forschung TH Köln </strong>
+          <br>
+          <strong>N.N. BMBF (angefragt)</strong>
+          <br>
+           Grußworte
         </td>
     </tr>
     <tr>
