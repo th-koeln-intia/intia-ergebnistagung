@@ -8,10 +8,10 @@ permalink: /
 ---
 
 <div class="button-row">
-<a href="#agenda" class="button is-rounded is-dark">
+<a href="#vorlufige-agenda" class="button is-rounded is-dark">
   <span>Vorläufige Agenda</span>
 </a>
-<a href="#ber" class="button is-rounded is-dark">
+<a href="#ber-die-tagung" class="button is-rounded is-dark">
   <span>Über die Tagung</span>
 </a>
 <a href="#teilnehmen" class="button is-rounded is-dark">
