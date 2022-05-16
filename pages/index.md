@@ -80,9 +80,15 @@ Anmeldung an
     <tr>
         <th>09:10 Uhr</th>
         <td colspan="2">
-          <strong>Prof. Dr. Klaus Becker, Vizepräsident für Forschung TH Köln </strong>
+          <strong>Prof. Dr. Klaus Becker</strong>
           <br>
-          <strong>N.N. BMBF (angefragt)</strong>
+          <strong>Vizepräsident für Forschung, TH Köln</strong>
+          <br>
+          <strong>Dr. Jochen Dreßen</strong>
+          <br>
+          <strong>Leiter der Projektträgerschaft „Forschung an Fachhochschulen“, 
+          <br>
+          VDI Technologiezentrum</strong>
           <br>
            Grußworte
         </td>
