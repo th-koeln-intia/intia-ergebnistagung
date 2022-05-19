@@ -84,7 +84,7 @@ Anmeldung an
           <br>
           <strong>Prof. Dr. Klaus Becker</strong>
           <br>
-          Vizepräsident für Forschung, TH Köln
+          Vizepräsident für Forschung und Wissenstransfer, TH Köln
           <br>
           <strong>Dr. Jochen Dreßen</strong>
           <br>
