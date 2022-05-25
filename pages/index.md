@@ -162,9 +162,11 @@ Anmeldung an
         <td>
            <p>Track 01</p>
           <br>
-           <strong>TH Köln &</strong>
+           <strong>Prof. Dr. Isabel Zorn &</strong>
           <br>
-           <strong>Ev. Jugendhilfe Godesheim gGmbH (angefragt)</strong>
+           <strong>Daniela Trepte, </strong>
+           <br>
+           Ev. Jugendhilfe Godesheim gGmbH
           <br>
           <br>
           Virtuelle Entwicklungsworkshops mit Jugendlichen in Einrichtungen der Sozialen Arbeit: 
