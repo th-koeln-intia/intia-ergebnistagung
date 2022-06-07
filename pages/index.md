@@ -138,7 +138,7 @@ Anmeldung an
            <strong>M.A. Janina Rösch</strong>
           <br>
           <br>
-          Inklusive Bedarfserhebung durch Cultural Probes während coronabedingten Betretungsverboten. Methoden aus dem Service Design
+          Service Design in der inklusiven Technikentwicklung – Methoden zur Bedarfserhebung
         </td>
         <td>
             <p>Track 02</p>
