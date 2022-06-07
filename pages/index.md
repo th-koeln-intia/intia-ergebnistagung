@@ -176,7 +176,9 @@ Anmeldung an
         <td>
            <p>Track 02</p>
           <br>
-           <strong>B.Sc. Dennis Christian Wilk</strong>
+           <strong>B.Sc. Dennis Christian Wilk &</strong>
+          <br>
+            <strong>M.Sc. Marc Schmidt</strong>
           <br>
           <br>
           Entwicklung einer Einstiegsmethode zu Motivation und Kenntnis für Technikentwicklung für Fachkräfte und Adressat:innen der Sozialen Arbeit 
@@ -189,7 +191,9 @@ Anmeldung an
         <td>
            <p>Track 01</p>
           <br>
-           <strong>Prof. Dr. Stefan Bente</strong>
+           <strong>Prof. Dr. Stefan Bente &</strong>
+          <br>
+            <strong>Prof. Dr. Isabel Zorn </strong>
           <br>
           <br>
           Interdisziplinäres agiles Arbeiten im Forschungskontext. Herausforderungen und Methoden
@@ -197,7 +201,9 @@ Anmeldung an
         <td>
            <p>Track 02</p>
           <br>
-           <strong>M.Sc. Marc Schmidt</strong>
+           <strong>M.Sc. Marc Schmidt &</strong>
+          <br>
+            <strong>B.Sc. Dennis Christian Wilk</strong>
           <br>
           <br>
           Sprachassistenten zur Unterstützung von Alltagsbewältigung: Eine datenschutzgerechte Entwicklung ohne Alexa & Co.
