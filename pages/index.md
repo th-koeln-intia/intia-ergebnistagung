@@ -8,8 +8,8 @@ permalink: /
 ---
 
 <div class="button-row">
-<a href="#vorlufige-agenda" class="button is-rounded is-dark">
-  <span>Vorläufige Agenda</span>
+<a href="#agenda" class="button is-rounded is-dark">
+  <span>Agenda</span>
 </a>
 <a href="#ber-die-tagung" class="button is-rounded is-dark">
   <span>Über die Tagung</span>
@@ -62,7 +62,7 @@ Anmeldung an
 </div>
 " %}
 
-# Vorläufige Agenda
+# Agenda
 
 <table class="tb">
     <tr>
