@@ -11,6 +11,9 @@ permalink: /
 <a href="#agenda" class="button is-rounded is-dark">
   <span>Agenda</span>
 </a>
+<a href="#tagungsbeitrge-als-download" class="button is-rounded is-dark">
+  <span>Tagungsbeiträge als Download</span>
+</a>
 <a href="#ber-die-tagung" class="button is-rounded is-dark">
   <span>Über die Tagung</span>
 </a>
@@ -237,6 +240,12 @@ Anmeldung an
     </tr>
 </table>
 <small> Bei den Vortragstiteln handelt es sich um Arbeitstitel. Es ist möglich, dass sich hier noch Anpassungen ergeben.</small>
+
+# Tagungsbeiträge als Download
+
+Alle Beiträge von der INTIA Ergebnistagung vom 09.06.2022 stehen als PDFs zum Download [hier](https://th-koeln.sciebo.de/s/Y7XYXr0WvDWIyfl) zur Verfügung.
+
+Oder als Link zum kopieren: https://th-koeln.sciebo.de/s/Y7XYXr0WvDWIyfl
 
 # Über die Tagung
 
