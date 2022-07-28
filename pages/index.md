@@ -17,9 +17,6 @@ permalink: /
 <a href="#ber-die-tagung" class="button is-rounded is-dark">
   <span>Über die Tagung</span>
 </a>
-<a href="#teilnehmen" class="button is-rounded is-dark">
-  <span>Teilnehmen</span>
-</a>
 </div>
 
 # Ergebnistagung INTIA
@@ -30,6 +27,7 @@ gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) stellt 
 Projekts die Ergebnisse vor und lädt zu einer offenen Diskussion über den theoretischen
 Forschungsrahmen, Praxisbezüge sowie nachhaltige Anschlussperspektiven ein.
 
+<!---
 {% include highlighter.html min-height25p=false content="
 
 <div class='columns'>
@@ -64,6 +62,7 @@ Anmeldung an
 </div>
 </div>
 " %}
+--->
 
 # Agenda
 
@@ -282,6 +281,8 @@ entwickelte Artefakte und Methoden des inklusiven partizipativen Entwickelns. In
 Format wird im Anschluss allen Teilnehmenden die Möglichkeit zu Austausch und Verständigung über
 die Grenzen von Forschungsdisziplinen und Berufspraktiken hinaus gegeben.
 
+<!---
 # Teilnehmen
 
 Eine Registrierung ist für die Teilnahme nicht nötig. Sie erhalten den Zugangslink zu Zoom automatisiert über eine Email an [intia@th-koeln.de](mailto:intia@th-koeln.de). Auch wenn Sie Anregungen oder Fragen haben, schreiben Sie uns gerne an [carola.janda@th-koeln.de](mailto:carola.janda@th-koeln.de).
+--->
